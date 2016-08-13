@@ -3,8 +3,8 @@
 [![NPM version](https://img.shields.io/npm/v/unstar-gist.svg)](https://www.npmjs.com/package/unstar-gist)
 [![Build Status](https://travis-ci.org/shinnn/unstar-gist.svg?branch=master)](https://travis-ci.org/shinnn/unstar-gist)
 [![Coverage Status](https://img.shields.io/coveralls/shinnn/unstar-gist.svg)](https://coveralls.io/github/shinnn/unstar-gist)
-[![Dependency Status](https://david-dm.org/shinnn/unstar-gist.svg)](https://david-dm.org/shinnn/unstar-gist)
-[![devDependency Status](https://david-dm.org/shinnn/unstar-gist/dev-status.svg)](https://david-dm.org/shinnn/unstar-gist#info=devDependencies)
+[![dependencies Status](https://david-dm.org/shinnn/unstar-gist/status.svg)](https://david-dm.org/shinnn/unstar-gist)
+[![devDependencies Status](https://david-dm.org/shinnn/unstar-gist/dev-status.svg)](https://david-dm.org/shinnn/unstar-gist?type=dev)
 
 Unstar a [gist](https://gist.github.com/)
 
@@ -60,6 +60,6 @@ unstarGist('2790533', {token: 'invalid_token'}).catch(err => {
 
 ## License
 
-Copyright (c) 2015 [Shinnosuke Watanabe](https://github.com/shinnn)
+Copyright (c) 2015 - 2016 [Shinnosuke Watanabe](https://github.com/shinnn)
 
 Licensed under [the MIT License](./LICENSE).
